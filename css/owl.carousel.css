@@ -42,6 +42,7 @@
     position: relative;
     min-height: 1px;
     float: left;
+    text-align: end;
     -webkit-backface-visibility: hidden;
     -webkit-tap-highlight-color: transparent;
     -webkit-touch-callout: none; }
