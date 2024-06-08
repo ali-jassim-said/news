@@ -27,6 +27,14 @@
   color: var(--secondary-color);
 }
 
+.category-footer{
+  display: flex !important;
+  align-items: center;
+  justify-content: end;
+  flex-direction: row-reverse;
+  gap: 10px;
+}
+
 
 a,
 a:hover {
@@ -268,7 +276,7 @@ a:hover {
   z-index: 7;
   top: 65%;
   right: 5%;
-  padding: 0 10px;
+  padding: 0 11px;
   text-align: end;
 }
 .fh5co_heading {
