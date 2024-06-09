@@ -684,6 +684,8 @@ a:hover {
 .footer_post {
   color: var(--secondary-color);
   display: -webkit-box;
+  display: flex !important;
+  justify-content: flex-end !important;
 }
 .footer_makes_sub_font {
   font-size: 12px;

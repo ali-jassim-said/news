@@ -859,6 +859,7 @@ pre code {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  flex-direction: row-reverse;
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
